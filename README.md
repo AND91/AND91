@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm André Rezende</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AND91&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Pleno Web Developer & UI Design 
+- 🔥 Sênior Web Developer & UI Design 
 
 - 👨‍💻 All of my projects are available at [andrerezende.dev](https://andrerezende.dev)
 
